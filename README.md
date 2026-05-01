@@ -1,2 +1,3 @@
 # Pest-Detection-System
-This project is an AI-based pest detection system(Pest Shield Ghana) specifically designed to help Ghanaian farmers. This mobile application project aims to create an intelligent tool that enables farmers to quickly and accurately identify pests from images captured on mobile devices.
+This project is an AI-based pest detection system(Pest Shield Ghana) 
+An Ai Pest detection application designed to help farmers in Ghana to detect the type of parasite affecting the growth of their farm crops. This application is embedded with Highly developed Ai Model trained with lots of pest categories.
