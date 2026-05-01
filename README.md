@@ -71,11 +71,11 @@ pest_shield_app/
 
 ## Features
 
-- 📸 **Capture/Upload** pest images from camera or gallery
-- 🤖 **AI Analysis** using OpenRouter vision API
-- 📊 **Pest Detection** with confidence scores
-- 💡 **Smart Suggestions** for pest management
-- 🌍 **Multi-device** support (Android, iOS, Web)
+-  **Capture/Upload** pest images from camera or gallery
+-  **AI Analysis** using OpenRouter vision API
+-  **Pest Detection** with confidence scores
+-  **Smart Suggestions** for pest management
+-  **Multi-device** support (Android, iOS, Web)
 
 ## API Endpoints
 
@@ -141,12 +141,14 @@ The app is configured for deployment via Render using `render.yaml`. See [RENDER
 
 Group 26B - Pest Shield Ghana Project
 
-SAGOE Wiredu Robert
-KYEREMEH Kuruwa Henrietta 
-AGYEMANG Kelvin  
-BILLA John Moses 
-ADJEI Tutu Mark
+- SAGOE Wiredu Robert
+
+- KYEREMEH Kuruwa Henrietta 
+- AGYEMANG Kelvin  
+- BILLA John Moses 
+- ADJEI Tutu Mark
 
 ## License
+@2026
 
-Private project — do not distribute without permission.
+Private project — Do not distribute without permission.
