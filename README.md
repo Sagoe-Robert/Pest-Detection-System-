@@ -149,6 +149,6 @@ Group 26B - Pest Shield Ghana Project
 - ADJEI Tutu Mark
 
 ## License
-@2026
+Copyright@2026
 
 Private project — Do not distribute without permission.
